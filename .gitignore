@@ -42,3 +42,7 @@
 
 #Fast Fading Traces
 src/channel/propagation-model/FastFadingRealization/*
+
+#Doxygen folders
+html/
+latex/
